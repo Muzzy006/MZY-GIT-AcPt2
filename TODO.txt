@@ -2,7 +2,7 @@ Liste des choses à faire sur le Projet.
 
 -Créer un fichier README.txt -- ok
 -Editer le README -- ok
--Créer une page HTML simple du README
+-Créer une page HTML simple
 -Mise en Page
 -Ajout du CSS
 -Ajout de Bootstrap
